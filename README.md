@@ -1,6 +1,8 @@
 
-
-<img src="https://github.com/coder-lokesh/Notepad/notepad.gif" width="300">
+<p align="center">
+  <a href="https://github.com/coder-lokesh/Notepad">
+    <img src="notepad.gif" alt="Logo" width="700" height="600">
+  </a>
 
 ## Download
 You can [download](https://github.com/coder-lokesh/Notepad) 
