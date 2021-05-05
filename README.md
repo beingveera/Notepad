@@ -1,7 +1,6 @@
 
 
-
-![screenshot](https://raw.githubusercontent.com/coder-lokesh/notepad.gif)
+<img src="https://github.com/coder-lokesh/Notepad/notepad.gif" width="300">
 
 ## Download
 You can [download](https://github.com/coder-lokesh/Notepad) 
