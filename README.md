@@ -31,6 +31,7 @@ MIT
 ---
 
 > [Lokesh Sharma](http://lokesh-resume.web.app/) &nbsp;&middot;&nbsp;
-> GitHub [@amitmerchant1990](https://github.com/coder-lokesh) &nbsp;&middot;&nbsp;
-> Twitter [@amit_merchant](https://twitter.com/lokeshs97047988)
+> GitHub [@Github](https://github.com/coder-lokesh) &nbsp;&middot;&nbsp;
+> Twitter [@Twitter](https://twitter.com/lokeshs97047988) &nbsp;&middot;&nbsp;
+> Linkdlen [@Linkdlen](https://www.linkedin.com/in/lokesh-sharma-908857193/) &nbsp;&middot;&nbsp;
 
